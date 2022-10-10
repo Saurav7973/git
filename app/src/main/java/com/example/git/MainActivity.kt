@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         println("second commit")
         println("third commit")
-        println("new example ")
+        println("new  ")
 
     }
 }
