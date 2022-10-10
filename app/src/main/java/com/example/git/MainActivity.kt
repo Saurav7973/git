@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         println("second commit")
         println("third commit")
-        some error
+        println("new example branch")
+
     }
 }
